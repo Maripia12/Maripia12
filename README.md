@@ -1,7 +1,7 @@
-### Welcome there 👋, I'm Pia Paulino!
+                                                                ### Welcome there 👋, I'm Pia Paulino!
 
 
-![comp demo](compgif.webp)
+                                                                      ![comp demo](compgif.webp)
 
 ✨ I'm a team-minded and motivated software engineering graduate from Georgia Tech Coding Bootcamp Program looking for a development position. Ability and willingness to innovate and learn new technologies. Able to effectively self-manage during independent projects as well as collaborate as a part of a productive team✨ 
 
