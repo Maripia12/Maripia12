@@ -11,9 +11,9 @@
 <link rel="stylesheet" href=
 "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.9.0/css/all.css">
 
-- 📫 Email me at: maripia1220@gmail.com
+## 📫 Email me at: maripia1220@gmail.com
 
-- Come find me on [linkedIn!](https://www.linkedin.com/in/pia-paulino-a7862684/)
+## Come find me on [LinkedIn!](https://www.linkedin.com/in/pia-paulino-a7862684/)
 
 
 
